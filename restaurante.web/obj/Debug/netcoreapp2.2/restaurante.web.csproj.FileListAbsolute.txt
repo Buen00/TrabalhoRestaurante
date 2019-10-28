@@ -25,3 +25,4 @@ C:\Users\pc\Desktop\aula C#\TrabalhoRestaurante\restaurante.web\obj\Debug\netcor
 C:\Users\pc\Desktop\aula C#\TrabalhoRestaurante\restaurante.web\obj\Debug\netcoreapp2.2\restaurante.web.RazorTargetAssemblyInfo.cs
 C:\Users\pc\Desktop\aula C#\TrabalhoRestaurante\restaurante.web\obj\Debug\netcoreapp2.2\restaurante.web.dll
 C:\Users\pc\Desktop\aula C#\TrabalhoRestaurante\restaurante.web\obj\Debug\netcoreapp2.2\restaurante.web.pdb
+C:\Users\pc\Desktop\aula C#\TrabalhoRestaurante\restaurante.web\obj\Debug\netcoreapp2.2\Razor\Views\Media\index.g.cshtml.cs

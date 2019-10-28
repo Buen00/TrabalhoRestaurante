@@ -1,4 +1,4 @@
-@model Restaurante.repository.Repositories.ConsumoRepository
+@model restaurante.web.Models;
 
 <div class="form-horizontal">
     <form action="Edit" method="Post">
@@ -7,28 +7,28 @@
             <label>Id</label>
             <input  class="form-control"
                     type="text" name="id"
-                    value="@restaurante.repository.id"/>
+                    value="@restaurante.web.id"/>
         </div>
 
         <div class="form-group">
             <label>Restaurante</label>
             <input  class="form-control"
                     type="text" name="restaurante"
-                    value="@restaurante.repository.restaurante"/>
+                    value="@restaurante.web.restaurante"/>
         </div>
 
         <div class="form-group">
             <label>Valor</label>
             <input  class="form-control"
                     type="text" name="valor"
-                    value="@restaurante.repository.valor"/>
+                    value="@restaurante.web.valor"/>
         </div>
 
         <div class="form-group">
             <label>Data</label>
             <input  class="form-control"
                     type="text" name="data"
-                    value="@restaurante.repository.data"/>
+                    value="@restaurante.web.data"/>
         </div>
 
         <input  class="btn btn-primary" 

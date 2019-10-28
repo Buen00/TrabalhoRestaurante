@@ -3029,6 +3029,11 @@
       "FilePath": "Views\\Consumo\\Edit.cshtml",
       "TargetPath": "Views\\Consumo\\Edit.cshtml",
       "FileKind": "mvc"
+    },
+    {
+      "FilePath": "Views\\Media\\index.cshtml",
+      "TargetPath": "Views\\Media\\index.cshtml",
+      "FileKind": "mvc"
     }
   ],
   "SerializationFormat": "0.2"
