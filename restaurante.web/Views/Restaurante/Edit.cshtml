@@ -1,0 +1,52 @@
+@model restaurante.web.Models;
+
+<div class="form-horizontal">
+    <form action="Edit" method="Post">
+
+        <div class="form-group">
+            <label>Id</label>
+            <input  class="form-control"
+                    type="text" name="id"
+                    value="@restaurante.repository.id"/>
+        </div>
+
+        <div class="form-group">
+            <label>Nome</label>
+            <input  class="form-control"
+                    type="text" name="name"
+                    value="@restaurante.repository.name"/>
+        </div>
+
+        <div class="form-group">
+            <label>Endereco</label>
+            <input  class="form-control"
+                    type="text" name="endereco"
+                    value="@restaurante.repository.endereco"/>
+        </div>
+
+        <div class="form-group">
+            <label>Bairro</label>
+            <input  class="form-control"
+                    type="text" name="bairro"
+                    value="@restaurante.repository.bairro"/>
+        </div>
+
+        <div class="form-group">
+            <label>Cidade</label>
+            <input  class="form-control"
+                    type="text" name="cidade"
+                    value="@restaurante.repository.cidade"/>
+        </div>
+
+        <div class="form-group">
+            <label>BairEstadoro</label>
+            <input  class="form-control"
+                    type="text" name="estado"
+                    value="@restaurante.repository.estado"/>
+        </div>
+
+        <input  class="btn btn-primary" 
+                type="submit" value="Salvar"/>
+
+    </form>
+</div>

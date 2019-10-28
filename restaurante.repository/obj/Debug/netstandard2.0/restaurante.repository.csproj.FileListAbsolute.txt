@@ -1,0 +1,12 @@
+C:\Users\pc\Desktop\aula C#\TrabalhoRestaurante\restaurante.repository\obj\Debug\netstandard2.0\restaurante.repository.csprojAssemblyReference.cache
+C:\Users\pc\Desktop\aula C#\TrabalhoRestaurante\restaurante.repository\obj\Debug\netstandard2.0\restaurante.repository.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\aula C#\TrabalhoRestaurante\restaurante.repository\obj\Debug\netstandard2.0\restaurante.repository.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\aula C#\TrabalhoRestaurante\restaurante.repository\obj\Debug\netstandard2.0\restaurante.repository.AssemblyInfo.cs
+C:\Users\pc\Desktop\aula C#\TrabalhoRestaurante\restaurante.repository\bin\Debug\netstandard2.0\restaurante.repository.deps.json
+C:\Users\pc\Desktop\aula C#\TrabalhoRestaurante\restaurante.repository\bin\Debug\netstandard2.0\restaurante.repository.dll
+C:\Users\pc\Desktop\aula C#\TrabalhoRestaurante\restaurante.repository\bin\Debug\netstandard2.0\restaurante.repository.pdb
+C:\Users\pc\Desktop\aula C#\TrabalhoRestaurante\restaurante.repository\bin\Debug\netstandard2.0\restaurante.domain.dll
+C:\Users\pc\Desktop\aula C#\TrabalhoRestaurante\restaurante.repository\bin\Debug\netstandard2.0\restaurante.domain.pdb
+C:\Users\pc\Desktop\aula C#\TrabalhoRestaurante\restaurante.repository\obj\Debug\netstandard2.0\restaurante.repository.csproj.CopyComplete
+C:\Users\pc\Desktop\aula C#\TrabalhoRestaurante\restaurante.repository\obj\Debug\netstandard2.0\restaurante.repository.dll
+C:\Users\pc\Desktop\aula C#\TrabalhoRestaurante\restaurante.repository\obj\Debug\netstandard2.0\restaurante.repository.pdb

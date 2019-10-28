@@ -1,0 +1,38 @@
+@model Restaurante.repository.Repositories.ConsumoRepository
+
+<div class="form-horizontal">
+    <form action="Edit" method="Post">
+
+        <div class="form-group">
+            <label>Id</label>
+            <input  class="form-control"
+                    type="text" name="id"
+                    value="@restaurante.repository.id"/>
+        </div>
+
+        <div class="form-group">
+            <label>Restaurante</label>
+            <input  class="form-control"
+                    type="text" name="restaurante"
+                    value="@restaurante.repository.restaurante"/>
+        </div>
+
+        <div class="form-group">
+            <label>Valor</label>
+            <input  class="form-control"
+                    type="text" name="valor"
+                    value="@restaurante.repository.valor"/>
+        </div>
+
+        <div class="form-group">
+            <label>Data</label>
+            <input  class="form-control"
+                    type="text" name="data"
+                    value="@restaurante.repository.data"/>
+        </div>
+
+        <input  class="btn btn-primary" 
+                type="submit" value="Salvar"/>
+
+    </form>
+</div>

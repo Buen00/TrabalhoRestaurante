@@ -1,0 +1,35 @@
+@model IEnumerable<trabalhorestaurante.restauranterepository.RestauranteRepository>
+</br></br>
+<a href="Restaurante/Create" class="btn btn-primary">Novo Registro</a>
+</br></br>
+
+<div class="container">
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Id</th>
+                <th>Nome</th>
+                <th>Endereco</th>
+                <th>Bairro</th>
+                <th>Cidade</th>
+                <th>Estado</th>
+                <th></th>
+                <th></th>
+            </tr>
+        </thead>
+
+        @foreach(var item in Model)
+        {
+            <tr>
+                <td>@item.id</td>
+                <td>@item.name</td>
+                <td>@item.endereco</td>
+                <td>@item.bairro</td>
+                <td>@item.cidade</td>
+                <td>@item.estado</td>
+                <td><a class="btn btn-danger" href="Restaurante/Delete/@item.id">Delete</a> </td>
+                <td><a class="btn btn-primary" href="Restaurante/Edit/@item.id">Editar</a> </td>
+            </tr>
+        }
+    </table>
+</div>
